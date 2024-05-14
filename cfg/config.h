@@ -1,0 +1,7 @@
+#define ssid "YOUR_WIFI_SSID"
+#define password "YOUR_WIFI_PASSWORD"
+#define tlgrmToken "YOUR_BOT_TOKEN"
+#define tlgrmChatId "YOUR_CHAT_ID"
+#define vkToken "YOUR_VK_TOKEN"
+#define vkGroup ""
+#define API "84.39.243.205:5096/motion-sensor"
