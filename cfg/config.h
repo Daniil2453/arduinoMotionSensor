@@ -1,7 +1,16 @@
-#define ssid "YOUR_WIFI_SSID"
-#define password "YOUR_WIFI_PASSWORD"
-#define tlgrmToken "YOUR_BOT_TOKEN"
-#define tlgrmChatId "YOUR_CHAT_ID"
-#define vkToken "YOUR_VK_TOKEN"
-#define vkGroup ""
-#define API "84.39.243.205:5096/motion-sensor"
+// config.h - Configuration file for the Digital Security System project
+
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// Wi-Fi Network Credentials
+#define WIFI_SSID "YOUR_WIFI_SSID"       // Replace with your Wi-Fi SSID
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"  // Replace with your Wi-Fi password
+
+// Telegram Bot Configuration
+#define BOT_TOKEN "GetToken in bot @BotFather" // Replace with your Telegram bot token
+#define CHAT_ID "YourChatID"             // Replace with your Telegram chat ID
+
+// Server URL for sending motion detection data
+#define SERVER_URL "YourWebServerURL"    // Replace with your web server URL
+
