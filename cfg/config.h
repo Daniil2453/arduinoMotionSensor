@@ -1,8 +1,3 @@
-// config.h - Configuration file for the Digital Security System project
-
-#ifndef CONFIG_H
-#define CONFIG_H
-
 // Wi-Fi Network Credentials
 #define WIFI_SSID "YOUR_WIFI_SSID"       // Replace with your Wi-Fi SSID
 #define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"  // Replace with your Wi-Fi password
